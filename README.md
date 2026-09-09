@@ -1,1 +1,3 @@
-# .github
+# sAIfer Lab - Cybersecurity Division
+
+The sAIfer Lab is a virtual lab founded in 2024 to strengthen and expand the activities of the two founding partners, the PRA Lab and the SmartLab, in the strategic areas of AI and Cybersecurity and create added value for all the partners and stakeholders of the Universities of Cagliari and Genoa. sAIfer Lab research fits in the so called Pasteur’s quadrant, conjugating the search for fundamental understanding of scientific problems with practical use for society in fields of cybersecurity, biometrics, and industry. The Lab has a special focus on the development of safe and secure AI systems that ensure that no unintentional or intentional harm can occur to people, IT systems, society, and critical infrastructures. Unintentional harms due to the lack of safety of AI systems to unexpected situations. Intentional harms due to the lack of security of AI systems against attacks.
